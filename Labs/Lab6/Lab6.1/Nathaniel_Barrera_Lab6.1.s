@@ -7,7 +7,7 @@
 .global main
 
 main:
-  mov w1, #4 // a = 4
+  mov w1, #4  // a = 4
   mov w2, #3  // b = 3
   mov w3, #7  // c = 7
   bl getMax
